@@ -6,6 +6,9 @@ I'm Lakhal Oumaima ( See my Portfolio ) , a Full Stack Web Developer from Tunisi
 - 🌱 I’m currently honing my skills in Ruby on Rails. 
 - 💬 I can help you build a product, a feature or a website. Look through some of my work! If you like what you see and have a project you need coded, don’t hesistate to contact me.
 
+### Skills:
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+
 
 <!--
 **lakhaloumaima/lakhaloumaima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
