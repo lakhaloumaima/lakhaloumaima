@@ -20,7 +20,7 @@ I'm Lakhal Oumaima ( See my Portfolio ) , a Full Stack Web Developer from Tunisi
 
 
  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgres/postgres-original-wordmark.svg" title=Ppostgres"  alt="Postgres" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgres/postgres-original-wordmark.svg" title=Postgres"  alt="Postgres" width="40" height="40"/>&nbsp;
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
