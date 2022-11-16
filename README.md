@@ -7,7 +7,16 @@ I'm Lakhal Oumaima ( See my Portfolio ) , a Full Stack Web Developer from Tunisi
 - 💬 I can help you build a product, a feature or a website. Look through some of my work! If you like what you see and have a project you need coded, don’t hesistate to contact me.
 
 ### Skills:
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" >
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/lakhal-oumaima-a02ab71ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/lakhaloumaima">
+    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+ 
+</div>
 
 
 <!--
