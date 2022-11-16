@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm Lakhal Oumaima ( See my Portfolio ) , a Full Stack Web Developer from Tunisia. I have a background of 1 year of experience in project controlling and scheduling, I look forward to learning and working with driven and successful teams, while expanding my fluency in multiple programming languages.
+
+### What I have been upto recently:
+- 🔭 I’m currently learning AngularJS.
+- 🌱 I’m currently honing my skills in Ruby on Rails. 
+- 💬 I can help you build a product, a feature or a website. Look through some of my work! If you like what you see and have a project you need coded, don’t hesistate to contact me.
+
 
 <!--
 **lakhaloumaima/lakhaloumaima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
