@@ -1,16 +1,13 @@
 ### Hi there 👋
-I'm Lakhal Oumaima ( See my Portfolio ) , a Full Stack Web Developer from Tunisia. I have a background of 1 year of experience in project controlling and scheduling, I look forward to learning and working with driven and successful teams, while expanding my fluency in multiple programming languages.
+I'm Lakhal Oumaima ( See my Portfolio ) , a Full Stack Web Developer from Tunisia. I have a background of 2 years of experience in project controlling and scheduling, I look forward to learning and working with driven and successful teams, while expanding my fluency in multiple programming languages.
 
-### What I have been upto recently:
-- 🔭 I’m currently learning AngularJS.
-- 🌱 I’m currently honing my skills in Ruby on Rails. 
 - 💬 I can help you build a product, a feature or a website. Look through some of my work! If you like what you see and have a project you need coded, don’t hesistate to contact me.
 
 ### Skills:
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
- 
+
 <img src="https://camo.githubusercontent.com/4112e082f1d21c40f8c0d0449079093a2a112edaee32bfc5e2fd21c128ffc4c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d527562792d3433303039383f7374796c653d666c61742d737175617265266c6f676f3d72756279266c6f676f436f6c6f723d7768697465"/>&nbsp;
 <img src="https://camo.githubusercontent.com/68e9f8a8fe1e71ec67762e1828aee71d7e83bfc5862d08d153b935122f336c0f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5261696c732d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d72756279266c6f676f436f6c6f723d7768697465"/>&nbsp;
 
